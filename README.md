@@ -5,7 +5,7 @@ This repository provides a high-level overview of some of the most widely used N
 
 ---
 
-### 1. NIST SP 800-37 (Risk Management Framework)
+## 1. NIST SP 800-37 (Risk Management Framework)
 NIST SP 800-37 provides a framework for managing organizational risks, ensuring that systems are secure and resilient. It includes the following six steps:
 
 - **Categorize**: Define the information and systems based on risk.
@@ -21,7 +21,7 @@ For more details, visit the [NIST SP 800-37 (Risk Management Framework)](https:/
 
 ---
 
-### 2. NIST SP 800-53 (Security and Privacy Controls)
+## 2. NIST SP 800-53 (Security and Privacy Controls)
 NIST SP 800-53 offers a comprehensive catalog of security and privacy controls that organizations can apply to their systems to mitigate risks. It’s used across cloud, on-premise, and hybrid environments.
 
 - **Control Families**: Includes controls for access control (AC), incident response (IR), risk assessment (RA), and more.
@@ -33,7 +33,7 @@ For more details, visit the [NIST SP 800-53 (Security and Privacy Controls)](htt
 
 ---
 
-### 3. NIST SP 800-61 (Incident Handling Guide)
+## 3. NIST SP 800-61 (Incident Handling Guide)
 NIST SP 800-61 focuses on how to detect, respond to, and recover from security incidents effectively.
 
 - **Incident Response Lifecycle**:
