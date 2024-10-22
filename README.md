@@ -1,4 +1,4 @@
-# Popular NIST Publications and the Guidelines
+# Popular NIST SP 800 Publications and the Guidelines
 
 ## Introduciton
 This repository provides a high-level overview of some of the most widely used NIST publications. These frameworks and guidelines are critical for risk management, security controls, and incident handling in cybersecurity. This project aims to offer a brief introduction to each document and the key guidelines that can be applied in real-world environments.
